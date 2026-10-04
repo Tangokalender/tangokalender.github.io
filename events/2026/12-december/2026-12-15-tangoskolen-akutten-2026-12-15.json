@@ -1,7 +1,9 @@
 {
     "id": "tangoskolen-akutten-2026-12-15",
     "title": "TangoAkutten",
-    "type": "class",
+    "types": [
+        "class"
+    ],
     "status": "scheduled",
     "series": "tangoskolen-akutten",
     "start": "2026-12-15T18:00:00+01:00",

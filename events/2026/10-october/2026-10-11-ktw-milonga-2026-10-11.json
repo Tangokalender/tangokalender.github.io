@@ -1,7 +1,9 @@
 {
     "id": "ktw-milonga-2026-10-11",
     "title": "KTW Milonga – søndag",
-    "type": "milonga",
+    "types": [
+        "milonga"
+    ],
     "status": "scheduled",
     "series": "ktw-milonga",
     "start": "2026-10-11T20:00:00+02:00",

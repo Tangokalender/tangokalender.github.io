@@ -1,7 +1,9 @@
 {
     "id": "galla-1128",
     "title": "Galla Milonga på Sentralen",
-    "type": "milonga",
+    "types": [
+        "milonga"
+    ],
     "start": "2026-11-28",
     "end": null,
     "venue": {

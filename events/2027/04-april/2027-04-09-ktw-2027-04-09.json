@@ -1,7 +1,9 @@
 {
     "id": "ktw-2027-04-09",
     "title": "Kavakava Tango Weekend Spring Edition",
-    "type": "festival",
+    "types": [
+        "festival"
+    ],
     "status": "scheduled",
     "series": "ktw",
     "start": "2027-04-09",

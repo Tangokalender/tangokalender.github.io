@@ -1,7 +1,9 @@
 {
     "id": "tangoskolen-trening-tir-2026-12-15",
     "title": "TangoTrening med partner",
-    "type": "practica",
+    "types": [
+        "practica"
+    ],
     "status": "scheduled",
     "series": "tangoskolen-trening-tir",
     "start": "2026-12-15T19:30:00+01:00",

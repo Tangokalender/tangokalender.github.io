@@ -1,7 +1,9 @@
 {
     "id": "milonga-sentimental-2026-10-02",
     "title": "Milonga Sentimental",
-    "type": "milonga",
+    "types": [
+        "milonga"
+    ],
     "status": "scheduled",
     "series": null,
     "start": "2026-10-02T21:00:00+02:00",

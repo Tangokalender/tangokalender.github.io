@@ -1,7 +1,9 @@
 {
     "id": "esa-2026-11-17",
     "title": "Milonga ESA",
-    "type": "milonga",
+    "types": [
+        "milonga"
+    ],
     "series": "esa",
     "start": "2026-11-17T20:00:00+01:00",
     "end": "2026-11-17T23:00:00+01:00",

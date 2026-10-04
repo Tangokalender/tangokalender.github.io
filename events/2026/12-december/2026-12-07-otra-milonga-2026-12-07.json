@@ -1,7 +1,9 @@
 {
     "id": "otra-milonga-2026-12-07",
     "title": "Otra Milonga",
-    "type": "milonga",
+    "types": [
+        "milonga"
+    ],
     "status": "scheduled",
     "series": "otra-milonga",
     "start": "2026-12-07T20:00:00+01:00",

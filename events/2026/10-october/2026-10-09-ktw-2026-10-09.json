@@ -1,7 +1,9 @@
 {
     "id": "ktw-2026-10-09",
     "title": "Kavakava Tango Weekend Autumn Edition",
-    "type": "festival",
+    "types": [
+        "festival"
+    ],
     "status": "scheduled",
     "series": "ktw",
     "start": "2026-10-09T17:00:00+02:00",

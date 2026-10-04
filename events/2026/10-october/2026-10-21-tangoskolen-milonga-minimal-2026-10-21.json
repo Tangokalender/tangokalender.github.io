@@ -1,7 +1,9 @@
 {
     "id": "tangoskolen-milonga-minimal-2026-10-21",
     "title": "Milonga Minimal",
-    "type": "milonga",
+    "types": [
+        "milonga"
+    ],
     "status": "scheduled",
     "series": "tangoskolen-milonga-minimal",
     "start": "2026-10-21T19:00:00+02:00",

@@ -1,7 +1,9 @@
 {
     "id": "tangoskolen-onsdagspractica-2026-10-14",
     "title": "OnsdagsPractica",
-    "type": "practica",
+    "types": [
+        "practica"
+    ],
     "status": "scheduled",
     "series": "tangoskolen-onsdagspractica",
     "start": "2026-10-14T19:00:00+02:00",

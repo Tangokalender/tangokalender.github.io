@@ -1,7 +1,10 @@
 {
     "id": "wiese",
     "title": "Åpen kveld på Wiese - lynkurs og sosial dans",
-    "type": "class_and_social",
+    "types": [
+        "class",
+        "milonga"
+    ],
     "start": "2026-10-08T19:00:00+02:00",
     "end": null,
     "venue": {

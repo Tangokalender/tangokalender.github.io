@@ -1,7 +1,9 @@
 {
     "id": "otq-2026-10-07",
     "title": "Practica",
-    "type": "practica",
+    "types": [
+        "practica"
+    ],
     "series": "otq",
     "start": "2026-10-07T17:00:00+02:00",
     "end": "2026-10-07T19:30:00+02:00",

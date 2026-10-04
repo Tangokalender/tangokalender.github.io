@@ -1,7 +1,10 @@
 {
     "id": "otv-praktika-2026-10-11",
     "title": "OTV søndagspractica",
-    "type": "class_and_practica",
+    "types": [
+        "class",
+        "practica"
+    ],
     "status": "scheduled",
     "series": "otv-praktika",
     "start": "2026-10-11T19:00:00+02:00",

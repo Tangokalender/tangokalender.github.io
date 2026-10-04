@@ -1,7 +1,9 @@
 {
     "id": "oslotango-thu-2026-10-08",
     "title": "Oslo Tango høstkurs - torsdag",
-    "type": "class",
+    "types": [
+        "class"
+    ],
     "status": "scheduled",
     "series": "oslotango-thu",
     "start": "2026-10-08T18:00:00+02:00",

@@ -1,7 +1,9 @@
 {
     "id": "nico-2026-10-01",
     "title": "Practica med Nico Bottega",
-    "type": "practica",
+    "types": [
+        "practica"
+    ],
     "start": "2026-10-01T19:00:00+02:00",
     "end": null,
     "venue": {

@@ -1,7 +1,9 @@
 {
     "id": "ktw-2027-01-15",
     "title": "Kavakava Tango Weekend Winter Edition",
-    "type": "festival",
+    "types": [
+        "festival"
+    ],
     "status": "scheduled",
     "series": "ktw",
     "start": "2027-01-15",

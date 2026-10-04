@@ -1,7 +1,9 @@
 {
     "id": "geraldina-ezequiel",
     "title": "Seminar med Geraldina Rojas og Ezequiel Paludi",
-    "type": "festival",
+    "types": [
+        "festival"
+    ],
     "start": "2026-11-27",
     "end": "2026-11-29",
     "venue": {

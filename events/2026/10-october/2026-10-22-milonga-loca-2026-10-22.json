@@ -1,7 +1,10 @@
 {
     "id": "milonga-loca-2026-10-22",
     "title": "Milonga Loca",
-    "type": "class_and_social",
+    "types": [
+        "class",
+        "milonga"
+    ],
     "status": "scheduled",
     "series": "milonga-loca",
     "start": "2026-10-22T18:00:00+02:00",

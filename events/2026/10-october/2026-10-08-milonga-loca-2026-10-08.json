@@ -1,7 +1,9 @@
 {
     "id": "milonga-loca-2026-10-08",
     "title": "Bokkveld og LOCA! milonga",
-    "type": "milonga",
+    "types": [
+        "milonga"
+    ],
     "status": "scheduled",
     "series": "milonga-loca",
     "start": "2026-10-08T18:00:00+02:00",

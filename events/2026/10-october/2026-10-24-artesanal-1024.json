@@ -1,7 +1,9 @@
 {
     "id": "artesanal-1024",
     "title": "Milonga Artesanal",
-    "type": "milonga",
+    "types": [
+        "milonga"
+    ],
     "series": "artesanal",
     "start": "2026-10-24T19:30:00+02:00",
     "end": "2026-10-25T00:00:00+02:00",

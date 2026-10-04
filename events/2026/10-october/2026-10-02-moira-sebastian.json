@@ -1,7 +1,9 @@
 {
     "id": "moira-sebastian",
     "title": "Moira Castellano & Sebastian de la Vallina i Oslo",
-    "type": "festival",
+    "types": [
+        "festival"
+    ],
     "start": "2026-10-02",
     "end": "2026-10-06",
     "venue": {

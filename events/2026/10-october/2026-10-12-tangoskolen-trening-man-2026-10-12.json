@@ -1,7 +1,9 @@
 {
     "id": "tangoskolen-trening-man-2026-10-12",
     "title": "TangoTrening med partner",
-    "type": "practica",
+    "types": [
+        "practica"
+    ],
     "status": "scheduled",
     "series": "tangoskolen-trening-man",
     "start": "2026-10-12T19:00:00+02:00",

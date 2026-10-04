@@ -1,7 +1,9 @@
 {
     "id": "tangoskolen-klasse-2026-11-18",
     "title": "TangoKlasse",
-    "type": "class",
+    "types": [
+        "class"
+    ],
     "status": "scheduled",
     "series": "tangoskolen-klasse",
     "start": "2026-11-18T17:30:00+01:00",
