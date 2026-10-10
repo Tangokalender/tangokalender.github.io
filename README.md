@@ -60,9 +60,16 @@ En redaktør ser over og merger; siden bygges og publiseres automatisk fra `main
 - `.github/workflows/intake.yml`: skjema → filer → PR (gren `arrangement/issue-<nr>`). Saker med feil får
   etiketten `trenger-retting`. PR-er laget av roboten kjører ikke CI automatisk, men er validert av roboten.
 
-Arbeidsflytene kaller de gjenbrukbare i kode-repoet, i versjonen `Project.toml` peker på. Ny versjon av koden: endre
-`rev` i `Project.toml` og `@vX.Y.Z` i arbeidsflytene (Dependabot foreslår det siste), kjør
-`julia --project=. -e 'using Pkg; Pkg.update()'` og `julia --project=. -m TangoKalender templates`, og commit.
+Arbeidsflytene kaller de gjenbrukbare i kode-repoet, i versjonen `Project.toml` peker på. Ny versjon av koden
+(her `vX.Y.Z`):
+
+```bash
+julia --project=. -e 'using Pkg; Pkg.add(url="git@github.com:Tangokalender/TangoKalender.jl.git", rev="vX.Y.Z")'
+julia --project=. -m TangoKalender templates     # skjemaene, i tilfelle de er endret
+```
+
+og sett `@vX.Y.Z` i de tre arbeidsflytene (Dependabot foreslår det). Commit `Project.toml`, `Manifest.toml`,
+arbeidsflytene og eventuelle endringer i `.github/ISSUE_TEMPLATE`. (`Pkg.update()` flytter ikke en festet versjon.)
 
 Engangsoppsett på GitHub: Settings → Pages → Source: *GitHub Actions*; Settings → Actions → General →
 Workflow permissions: *Read and write* og *Allow GitHub Actions to create and approve pull requests*;

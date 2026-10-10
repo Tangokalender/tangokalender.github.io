@@ -1,7 +1,5 @@
-# The calendar code, pinned to a release. Upgrade by changing `rev`, then run
-#   julia --project=. -e 'using Pkg; Pkg.update()'   and commit Manifest.toml.
 [deps]
 TangoKalender = "8fa2004d-d644-4dc6-9815-18e81ae74980"
 
 [sources]
-TangoKalender = {url = "git@github.com:Tangokalender/TangoKalender.jl.git", rev = "v1.0.0"}
+TangoKalender = {rev = "v1.0.1", url = "git@github.com:Tangokalender/TangoKalender.jl.git"}

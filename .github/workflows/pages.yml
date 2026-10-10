@@ -15,4 +15,4 @@ concurrency:
   cancel-in-progress: false
 jobs:
   pages:
-    uses: Tangokalender/TangoKalender.jl/.github/workflows/site-pages.yml@v1.0.0
+    uses: Tangokalender/TangoKalender.jl/.github/workflows/site-pages.yml@v1.0.1
