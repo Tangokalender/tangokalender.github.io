@@ -18,6 +18,15 @@
     "note": "Nominatim: house number 2 (Sletta)"
   },
   {
+    "address": "Ebbells gate 1, 0183 Oslo",
+    "lat": 59.915309,
+    "lon": 10.754279,
+    "precision": "house",
+    "source": "nominatim",
+    "checked": "2026-10-10",
+    "osm": "node/2785549622"
+  },
+  {
     "address": "Josefines gate 32, 0351 Oslo",
     "lat": 59.921923,
     "lon": 10.724072,
