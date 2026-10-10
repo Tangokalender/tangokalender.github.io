@@ -7,4 +7,4 @@ permissions:
   contents: read
 jobs:
   validate:
-    uses: Tangokalender/TangoKalender.jl/.github/workflows/site-validate.yml@v1.0.1
+    uses: Tangokalender/TangoKalender.jl/.github/workflows/site-validate.yml@v1.1.0

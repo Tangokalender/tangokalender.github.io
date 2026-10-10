@@ -2,4 +2,4 @@
 TangoKalender = "8fa2004d-d644-4dc6-9815-18e81ae74980"
 
 [sources]
-TangoKalender = {rev = "v1.0.1", url = "git@github.com:Tangokalender/TangoKalender.jl.git"}
+TangoKalender = {rev = "v1.1.0", url = "git@github.com:Tangokalender/TangoKalender.jl.git"}
