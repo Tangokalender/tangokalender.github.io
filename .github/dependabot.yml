@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: github-actions
+  - package-ecosystem: github-actions   # also bumps the TangoKalender workflow refs
     directory: /
     schedule:
       interval: weekly
