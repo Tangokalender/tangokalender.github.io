@@ -90,6 +90,15 @@
     "osm": "node/2790203301"
   },
   {
+    "address": "Thulstrups gate 3, Oslo",
+    "lat": 59.934267,
+    "lon": 10.738153,
+    "precision": "house",
+    "source": "nominatim",
+    "checked": "2026-10-10",
+    "osm": "node/2789321793"
+  },
+  {
     "address": "Ullevålsveien 76, bygg 16, 0454 Oslo",
     "lat": 59.932219,
     "lon": 10.735451,
