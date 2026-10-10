@@ -99,6 +99,15 @@
     "note": "Nominatim: «Ullevålsveien 76»"
   },
   {
+    "address": "Universitetsgata 13, 0164 Oslo",
+    "lat": 59.916148,
+    "lon": 10.737742,
+    "precision": "house",
+    "source": "nominatim",
+    "checked": "2026-10-10",
+    "osm": "node/3138851842"
+  },
+  {
     "address": "Uranienborgveien 28, Oslo",
     "lat": 59.923241,
     "lon": 10.719435,
