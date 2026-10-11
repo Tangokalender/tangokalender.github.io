@@ -1,0 +1,36 @@
+{
+    "id": "la-milonga-del-comediante-halloweelonga-2026-10-30",
+    "title": "La Milonga del Comediante: Halloweelonga!",
+    "types": [
+        "milonga"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-10-30T20:30:00+01:00",
+    "end": "2026-10-31T00:30:00+01:00",
+    "venue": {
+        "name": "Ensjø Kro",
+        "address": "Rolf Hofmos gate 34, 0655 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Adrián Minkowicz",
+    "dj": "Adrián Minkowicz",
+    "teachers": [],
+    "price_nok": 160,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "On Friday October 30th La Milonga del Comediante is back with a Halloweelonga! Outfits welcome! (but not necessary) Come as a vampire, a mermaid, or my favorite… what is that??!! From 20:30 to 0:30. DJ Residente Adrián “El Comediante” Only NOK 160. Nos vemos!! Please note that it is on a Friday. Join the scary Party!!",
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": "https://fbcdn.net",
+    "video": null,
+    "link": "https://facebook.com",
+    "source": "Innsendt via KI-skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/15",
+    "published_date": "2026-10-11",
+    "first_seen": "2026-10-11",
+    "last_verified": "2026-10-11",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
