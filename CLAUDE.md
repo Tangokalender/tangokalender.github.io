@@ -5,6 +5,8 @@ This is the **Oslo data repo** of Tangokalender (https://tangokalender.github.io
 `assets/og-image.png` (link preview), the rendered issue forms (`.github/ISSUE_TEMPLATE`) and thin workflows.
 All code, the schemas, the form templates and the reusable workflows are in the package repo
 https://github.com/Tangokalender/TangoKalender.jl (see its CLAUDE.md); `Project.toml` pins the version.
+Local checkouts in `/workspace`: this repo is `OsloEvents/`, the code repo `TangoKalender.jl/` (each folder named after
+its content; the GitHub names stay `tangokalender.github.io` and `TangoKalender.jl`).
 
 - Validate before committing: `julia --project=. -m TangoKalender validate events` (after `Pkg.instantiate()`).
 - Bulk edits: `julia --project=. -m TangoKalender edit TERM… KEY=VALUE --preview`, then without `--preview`.
