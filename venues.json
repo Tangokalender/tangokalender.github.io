@@ -90,6 +90,15 @@
     "osm": "node/2785920569"
   },
   {
+    "address": "Rolf Hofmos gate 34, 0655 Oslo",
+    "lat": 59.913195,
+    "lon": 10.788651,
+    "precision": "house",
+    "source": "nominatim",
+    "checked": "2026-10-11",
+    "osm": "node/6136458173"
+  },
+  {
     "address": "Thorvald Meyers gate 89, Oslo",
     "lat": 59.9188,
     "lon": 10.759222,
