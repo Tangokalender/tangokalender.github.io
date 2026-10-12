@@ -1,6 +1,6 @@
 # Tangokalender | Oslo
 
-**Nettside: https://tangokalender.github.io/**
+**Nettside: https://tango.oslo.no/**
 
 Statisk, responsiv og filtrerbar kalender for argentinsk tango i Oslo – milongaer, practicaer, kurs og festivaler.
 Dette repoet har **dataene** for Oslo: arrangementene (`events/`), kartposisjonene (`venues.json`) og innstillingene
@@ -14,13 +14,13 @@ Dette repoet har **dataene** for Oslo: arrangementene (`events/`), kartposisjone
 - Arrangementer med en presis adresse får et kart på sin egen side. Posisjonene ligger i `venues.json` og hentes fra
   OpenStreetMap (`tangokalender geocode`, kjøres automatisk for nye innsendinger). Står en nål feil, rett tallene i
   `venues.json` og sett `"source": "manual"` – da blir de ikke overskrevet.
-- Hvert arrangement har egen side, `https://tangokalender.github.io/arrangement/<id>/`, med alle detaljer,
+- Hvert arrangement har egen side, `https://tango.oslo.no/arrangement/<id>/`, med alle detaljer,
   «Legg i kalender (.ics)», «Del lenke» og «Rett opp».
 - Filtrene ligger i adressen og kan deles eller bokmerkes, f.eks.
-  https://tangokalender.github.io/?type=milonga,practica
-- Abonner på hele kalenderen: `webcal://tangokalender.github.io/kalender.ics`.
-  RSS: https://tangokalender.github.io/rss.xml
-- **Bygg inn på egen nettside:** https://tangokalender.github.io/bygg-inn.html – dagens og ukens program som bilde
+  https://tango.oslo.no/?type=milonga,practica
+- Abonner på hele kalenderen: `webcal://tango.oslo.no/kalender.ics`.
+  RSS: https://tango.oslo.no/rss.xml
+- **Bygg inn på egen nettside:** https://tango.oslo.no/bygg-inn.html – dagens og ukens program som bilde
   med lenker (`<object>`, oppdateres hver natt), en liste med filtre for `<iframe>` (f.eks. bare én arrangørs
   arrangementer med `?arr=`), samt `kalender.ics`, `rss.xml` og `events.json`.
 - ActivityPub står på [TODO](TODO.md).
@@ -28,7 +28,7 @@ Dette repoet har **dataene** for Oslo: arrangementene (`events/`), kartposisjone
 ## Språk
 
 Siden finnes på norsk (`/`), engelsk (`/en/`) og spansk (`/es/`), med de samme filnavnene, f.eks.
-https://tangokalender.github.io/en/uke.html. Første besøk på en norsk side følger nettleserens språk (engelsk for
+https://tango.oslo.no/en/uke.html. Første besøk på en norsk side følger nettleserens språk (engelsk for
 andre språk enn norsk/skandinavisk og spansk); valget i språkvelgeren (NO · EN · ES) huskes i nettleseren.
 Tittel og beskrivelse kan sendes inn på norsk eller engelsk («Tekstspråk»), og eventuelt også på det andre språket –
 ett språk er nok. Spanske sider viser engelsk tekst når den finnes. Skjemaene på GitHub er på norsk; de engelske og
@@ -36,17 +36,17 @@ spanske «Legg til»-sidene forklarer feltene.
 
 ## Legge inn arrangementer
 
-Alt om innsending står på én side: **https://tangokalender.github.io/legg-til.html**
+Alt om innsending står på én side: **https://tango.oslo.no/legg-til.html**
 
 - **Ett arrangement** (eller en enkel ukentlig serie): skjemaet «Nytt arrangement». Faste kvelder legges inn med
   «Gjentas: Ukentlig».
 - **Flere datoer fra regneark:** første rad kolonnenavn, andre rad alt som er felles, neste rader bare det som er
   annerledes (typisk Dato og DJ; tom celle = som andre rad, `-` fjerner, «Avlyst» i Status). Kopier cellene fra
   Excel/Google Regneark/Numbers og lim inn i «Nytt arrangement (fra tabell)». Mal:
-  https://tangokalender.github.io/mal/arrangementer-mal.csv
+  https://tango.oslo.no/mal/arrangementer-mal.csv
 - **Med KI:** kopier ledeteksten på siden inn i Copilot/Gemini/ChatGPT sammen med arrangementsteksten, og lim
   svaret (JSON) inn i «Nytt arrangement (JSON fra KI)». Instruksjoner for KI-agenter:
-  https://tangokalender.github.io/llms.txt
+  https://tango.oslo.no/llms.txt
 - **Rette opp:** «Rett opp» på hvert arrangement (tomt felt = ingen endring, `-` fjerner en opplysning; gjelder
   denne datoen eller også alle senere i serien; avlysning med «Status: Avlyst»).
 - **Pull request:** legg til eller endre filer under `events/` direkte. CI validerer alle filer.
@@ -98,4 +98,4 @@ events/
 Alle arrangementer har dato. Faste aktiviteter (ukentlige milongaer, kurs) er én fil per dato med felles
 `series`-id, slik at DJ, pris osv. kan variere fra gang til gang. Avlyste kvelder markeres med
 `"status": "cancelled"` (vises som «Avlyst») i stedet for at filen slettes. Formatet:
-https://tangokalender.github.io/schema/tango-event.schema.json (legg det inn som `"$schema"` for autoutfylling).
+https://tango.oslo.no/schema/tango-event.schema.json (legg det inn som `"$schema"` for autoutfylling).

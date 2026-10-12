@@ -1,4 +1,4 @@
-# Cells pasted from a spreadsheet – see https://tangokalender.github.io/legg-til.html#tabell
+# Cells pasted from a spreadsheet – see https://tango.oslo.no/legg-til.html#tabell
 # The «Tabell» label is the key read by from-issue (events_from_table in src/table.jl).
 name: Nytt arrangement (fra tabell)
 description: Flere datoer på én gang – lim inn celler fra Excel, Google Regneark eller Numbers.
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Se veiledning, eksempel og mal på [**Legg til arrangement – fra regneark**](https://tangokalender.github.io/legg-til.html#tabell).
+        Se veiledning, eksempel og mal på [**Legg til arrangement – fra regneark**](https://tango.oslo.no/legg-til.html#tabell).
 
         - **Første rad:** kolonnenavn (Tittel, Type, Dato, Starttid, Sluttid, Sted, Adresse, Arrangør, DJ, Pris (kr), Lenke …)
         - **Andre rad:** alt som er felles for alle datoene.

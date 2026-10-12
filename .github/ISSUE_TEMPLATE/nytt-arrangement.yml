@@ -14,7 +14,7 @@ body:
         Hver dato blir et eget arrangement, så DJ, pris eller avlysninger kan endres for én kveld senere.
 
         *In English:* the form is in Norwegian, but you may write the title and description in English –
-        choose «Tekstspråk: English». Field names are explained at https://tangokalender.github.io/en/legg-til.html
+        choose «Tekstspråk: English». Field names are explained at https://tango.oslo.no/en/legg-til.html
   - type: dropdown
     id: sprak
     attributes:
