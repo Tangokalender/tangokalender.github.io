@@ -18,6 +18,15 @@
     "note": "Nominatim: house number 2 (Sletta)"
   },
   {
+    "address": "Bogstadveien 49, 0366 Oslo",
+    "lat": 59.92866,
+    "lon": 10.716441,
+    "precision": "house",
+    "source": "nominatim",
+    "checked": "2026-10-13",
+    "osm": "node/2788528284"
+  },
+  {
     "address": "Ebbells gate 1, 0183 Oslo",
     "lat": 59.915309,
     "lon": 10.754279,
