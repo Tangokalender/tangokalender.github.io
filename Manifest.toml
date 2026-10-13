@@ -2,7 +2,7 @@
 
 julia_version = "1.13.1"
 manifest_format = "2.1"
-project_hash = "55d93602562217c912e49897ed396d4cfe05e2d8"
+project_hash = "d17a01397238a815bd769fc73480d9614924eec3"
 
 [[deps.Accessors]]
 deps = ["CompositionsBase", "ConstructionBase", "Dates", "InverseFunctions", "MacroTools"]
@@ -229,11 +229,11 @@ version = "1.0.3"
 
 [[deps.TangoKalender]]
 deps = ["Accessors", "Dates", "Downloads", "JSON", "JSONSchema", "PrecompileTools", "StructUtils", "StyledStrings", "TOML"]
-git-tree-sha1 = "3c5977158116e487c7d071c5b2fb68fe438bd065"
-repo-rev = "v1.3.6"
+git-tree-sha1 = "bf62012af2e2b03ce96d02656df2937f44e5797d"
+repo-rev = "v1.3.7"
 repo-url = "git@github.com:Tangokalender/TangoKalender.jl.git"
 uuid = "8fa2004d-d644-4dc6-9815-18e81ae74980"
-version = "1.3.6"
+version = "1.3.7"
 
 [[deps.URIs]]
 git-tree-sha1 = "908fec9df6c5de98548ead82a468c95ccf6cd263"
