@@ -1,0 +1,34 @@
+{
+    "id": "practica-tempranito-2026-12-05",
+    "title": "Practica Tempranito",
+    "types": [
+        "practica"
+    ],
+    "status": "scheduled",
+    "series": "practica-tempranito",
+    "start": "2026-12-05T12:00:00+01:00",
+    "end": "2026-12-05T14:00:00+01:00",
+    "venue": {
+        "name": "Oslo Dance Hub / Ewa Trela Dans",
+        "address": "Waldemar Thranes gate 3C, 0171 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tango Puente",
+    "dj": null,
+    "teachers": [],
+    "price_nok": null,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "Lørdagspractica for å øve på det du har lært på kurs, i en avslappet atmosfære.",
+    "music_style": [],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://tangopuente.com/",
+    "source": "Tango Puente",
+    "source_url": "https://tangopuente.com/",
+    "published_date": null,
+    "first_seen": "2026-10-13",
+    "last_verified": "2026-10-13",
+    "crawl_timestamp": "2026-10-13T18:00:00+02:00",
+    "confidence": 0.85
+}

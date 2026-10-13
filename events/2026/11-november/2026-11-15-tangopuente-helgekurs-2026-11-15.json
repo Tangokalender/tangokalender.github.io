@@ -1,0 +1,34 @@
+{
+    "id": "tangopuente-helgekurs-2026-11-15",
+    "title": "Helgekurs i tango for nybegynnere (Tango Puente)",
+    "types": [
+        "class"
+    ],
+    "status": "scheduled",
+    "series": "tangopuente-helgekurs",
+    "start": "2026-11-15T16:00:00+01:00",
+    "end": "2026-11-15T18:00:00+01:00",
+    "venue": {
+        "name": "Oslo Dance Hub / Ewa Trela Dans",
+        "address": "Waldemar Thranes gate 3C, 0171 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tango Puente",
+    "dj": null,
+    "teachers": [],
+    "price_nok": null,
+    "student_price_nok": null,
+    "class_price_nok": 910,
+    "description": "Intensivt helgekurs for nybegynnere, dag 2 av 2 (lørdag og søndag 16–18). Ingen erfaring eller partner nødvendig. Norsk og engelsk. 910 kr for begge dagene, påmelding på forhånd.",
+    "music_style": [],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://tangopuente.com/nybegynner-tango-helgekurs/",
+    "source": "Tango Puente",
+    "source_url": "https://tangopuente.com/",
+    "published_date": null,
+    "first_seen": "2026-10-13",
+    "last_verified": "2026-10-13",
+    "crawl_timestamp": "2026-10-13T18:00:00+02:00",
+    "confidence": 0.85
+}
