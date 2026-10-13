@@ -1,0 +1,34 @@
+{
+    "id": "crazy-chicken-tango-marathon-2027-03-24",
+    "title": "Crazy Chicken Tango Marathon",
+    "types": [
+        "marathon"
+    ],
+    "status": "scheduled",
+    "series": "crazy-chicken-tango-marathon-2027",
+    "start": "2027-03-24",
+    "end": "2027-03-28",
+    "venue": {
+        "name": null,
+        "address": null,
+        "city": "Oslo"
+    },
+    "organizer": "Crazy Chicken",
+    "dj": null,
+    "teachers": [],
+    "price_nok": 2150,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "Tangomaraton i Oslo i påsken: over 40 timer dans fra onsdag til søndag med sju DJ-er, og mat inkludert. Pre-milonga onsdag, åpningskveld torsdag fra 19:00, fredag og lørdag ettermiddag (13–19) og kveld (21–03), søndag 13–19. Hele pakken koster 2150 kr (190 €) og inkluderer pre-milonga, alle milongaer torsdag–søndag, 3 lunsjer, 2 middagsbufféer og snacks. Påmelding som leder, følger, begge eller par på nettsiden. Lokalet er ikke kunngjort ennå. Mandag 29. mars er det afterparty-milonga i regi av Otro Tango (ikke inkludert i passet).",
+    "music_style": [],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://www.crazychicken.no/",
+    "source": "Crazy Chicken",
+    "source_url": "https://www.crazychicken.no/djs-schedule",
+    "published_date": null,
+    "first_seen": "2026-10-13",
+    "last_verified": "2026-10-13",
+    "crawl_timestamp": "2026-10-13T16:00:00+02:00",
+    "confidence": 0.8
+}
