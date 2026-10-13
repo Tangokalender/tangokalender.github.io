@@ -16,3 +16,5 @@ its content; the GitHub names stay `tangokalender.github.io` and `TangoKalender.
 - Event rules (schema `https://tango.oslo.no/schema/tango-event.schema.json`): every event is dated; series
   share a `series` id with one file per date; cancelled dates get `"status": "cancelled"` instead of being deleted;
   times are Oslo local time with offset (`+02:00` summer, `+01:00` winter). No personal contact details.
+  Titles are the event's own name without the organiser («Nybegynnerkurs i tango», not «… (Tango Puente)»);
+  the list shows the organiser next to it. Keep names that are the event's real name («Otra Milonga»).
