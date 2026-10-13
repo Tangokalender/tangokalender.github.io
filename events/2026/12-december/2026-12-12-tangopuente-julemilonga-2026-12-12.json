@@ -9,8 +9,8 @@
     "start": "2026-12-12",
     "end": null,
     "venue": {
-        "name": "Oslo Dance Hub / Ewa Trela Dans",
-        "address": "Waldemar Thranes gate 3C, 0171 Oslo",
+        "name": "Dance Hub, Adamstuen",
+        "address": "Ullevålsveien 76, bygg 16, 0454 Oslo",
         "city": "Oslo"
     },
     "organizer": "Tango Puente",
@@ -19,9 +19,9 @@
     "price_nok": null,
     "student_price_nok": null,
     "class_price_nok": null,
-    "description": "Julemilonga på Dance Hub. Tidspunkt og pris er ikke kunngjort ennå.",
+    "description": "Julemilonga lørdag 12. desember på Dance Hub, Adamstuen. Tidspunkt og pris er ikke kunngjort ennå.",
     "music_style": [],
-    "flyer_url": null,
+    "flyer_url": "https://tangopuente.com/wp-content/uploads/2026/08/Jule-Milonga-Flyer-DL-214x-109-mm.jpg",
     "video": null,
     "link": "https://tangopuente.com/",
     "source": "Tango Puente",
