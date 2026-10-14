@@ -28,11 +28,12 @@
   },
   {
     "address": "Chr. Krohgs gate 60, 0186 Oslo",
-    "lat": null,
-    "lon": null,
-    "precision": "none",
-    "source": "nominatim",
-    "checked": "2026-10-13"
+    "lat": 59.917378,
+    "lon": 10.760148,
+    "precision": "house",
+    "source": "manual",
+    "checked": "2026-10-14",
+    "note": "Kartverket: «Christian Krohgs gate 60» (Nieu Grünerløkka, OSM node/13853326025)"
   },
   {
     "address": "Ebbells gate 1, 0183 Oslo",
