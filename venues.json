@@ -27,6 +27,14 @@
     "osm": "node/2788528284"
   },
   {
+    "address": "Chr. Krohgs gate 60, 0186 Oslo",
+    "lat": null,
+    "lon": null,
+    "precision": "none",
+    "source": "nominatim",
+    "checked": "2026-10-13"
+  },
+  {
     "address": "Ebbells gate 1, 0183 Oslo",
     "lat": 59.915309,
     "lon": 10.754279,
