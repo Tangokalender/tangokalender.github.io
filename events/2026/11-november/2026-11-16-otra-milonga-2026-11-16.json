@@ -6,15 +6,15 @@
     ],
     "status": "scheduled",
     "series": "otra-milonga",
-    "start": "2026-11-16T20:00:00+01:00",
+    "start": "2026-11-16T19:00:00+01:00",
     "end": "2026-11-17T00:00:00+01:00",
     "venue": {
-        "name": "Nedre Løkka cocktailbar",
-        "address": "Thorvald Meyers gate 89, Oslo",
+        "name": "Nieu Grünerløkka",
+        "address": "Chr. Krohgs gate 60, 0186 Oslo",
         "city": "Oslo"
     },
     "organizer": "Otra Milonga",
-    "dj": null,
+    "dj": "Francesco",
     "teachers": [],
     "price_nok": 100,
     "student_price_nok": null,
@@ -29,7 +29,8 @@
     "confidence": 0.7,
     "music_style": [
         "traditional",
-        "alternative"
+        "alternative",
+        "live_orchestra"
     ],
     "flyer_url": null,
     "video": null,
