@@ -31,5 +31,6 @@
     "music_style": [],
     "flyer_url": null,
     "video": null,
-    "link": null
+    "link": null,
+    "pay_what_you_can": true
 }
