@@ -90,6 +90,15 @@
     "osm": "node/2785550139"
   },
   {
+    "address": "N, Oslo",
+    "lat": 59.909041,
+    "lon": 10.749527,
+    "precision": "street",
+    "source": "nominatim",
+    "checked": "2026-10-16",
+    "osm": "node/6373810222"
+  },
+  {
     "address": "Nordahl Bruns gate 22, 0165 Oslo",
     "lat": 59.91854,
     "lon": 10.738243,
