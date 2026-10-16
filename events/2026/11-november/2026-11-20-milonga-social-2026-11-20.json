@@ -6,29 +6,36 @@
     ],
     "status": "scheduled",
     "start": "2026-11-20T20:00:00+01:00",
-    "end": "2026-11-20T23:45:00+01:00",
+    "end": "2026-11-21T00:00:00+01:00",
     "venue": {
         "name": "Arkitektenes hus",
         "address": "Josefines gate 32, 0351 Oslo",
         "city": "Oslo"
     },
     "organizer": "Unni Hermansen",
-    "dj": null,
+    "dj": "Age Akkerman, Amsterdam",
     "teachers": [],
     "price_nok": 200,
     "student_price_nok": 100,
     "class_price_nok": null,
-    "description": "Sosial milonga med kaffe, te og snacks.",
+    "description": "Vi feirer at Milonga Social er blitt 14 år! Det blir høy party faktor, noen ekstra smakfulle overraskelser og drinker fra baren. Bli med på feiringen!",
     "source": "Tango Events in Oslo / AllEvents",
     "source_url": "https://allevents.in/oslo/14-years-milonga-social-celebration/200030696278302",
     "published_date": null,
     "first_seen": "2026-10-11",
-    "last_verified": null,
+    "last_verified": "2026-10-16",
     "crawl_timestamp": null,
     "confidence": 0.9,
-    "music_style": [],
+    "music_style": [
+        "traditional"
+    ],
     "flyer_url": null,
     "video": null,
-    "link": null,
-    "series": "milonga-social"
+    "link": "https://www.facebook.com/events/2377016589496598/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22left_rail%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22left_rail%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22calendar_hosting_events_unit%22%2C%22surface%22%3A%22bookmark_calendar%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+    "series": "milonga-social",
+    "translations": {
+        "en": {
+            "description": "We celebrate that our dear Milonga Social is celebrating 14 years! This will be a party evening with some ekstra tasteful surprises. Come join us!"
+        }
+    }
 }
