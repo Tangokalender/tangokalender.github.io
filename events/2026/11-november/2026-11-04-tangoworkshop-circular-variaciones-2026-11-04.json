@@ -1,0 +1,36 @@
+{
+    "id": "tangoworkshop-circular-variaciones-2026-11-04",
+    "title": "Tangoworkshop: Circular Variaciones",
+    "types": [
+        "workshop"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-11-04T20:00:00+01:00",
+    "end": "2026-11-04T21:20:00+01:00",
+    "venue": {
+        "name": "Studio64",
+        "address": "Kirkeveien 64A, 0364 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tango Puente",
+    "dj": null,
+    "teachers": [],
+    "price_nok": 300,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "Gjesteworkshop 3 av 3: sirkulære variaciones. 300 kr per workshop.",
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://tangopuente.com/product/tangokurs-med-alejandro-beron-kelly-lettieri/",
+    "source": "Innsendt via KI-skjema",
+    "source_url": null,
+    "published_date": "2026-10-17",
+    "first_seen": "2026-10-17",
+    "last_verified": "2026-10-17",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
