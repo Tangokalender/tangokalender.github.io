@@ -33,5 +33,10 @@
     "flyer_url": null,
     "video": null,
     "link": null,
-    "pay_what_you_can": true
+    "pay_what_you_can": true,
+    "translations": {
+        "en": {
+            "description": "Loca! is an inclusive and pleasant social tango evening held every Thursday at Smelteverket Bar.\nAll voluntary contributions are reinvested in the tango environment.\nFor more info follow: locamilonga"
+        }
+    }
 }
