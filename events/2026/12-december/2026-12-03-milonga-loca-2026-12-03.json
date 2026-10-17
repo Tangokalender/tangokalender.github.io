@@ -1,21 +1,20 @@
 {
     "id": "milonga-loca-2026-12-03",
-    "title": "Milonga Loca",
+    "title": "Noche Loca!",
     "types": [
-        "class",
         "milonga"
     ],
     "status": "scheduled",
     "series": "milonga-loca",
-    "start": "2026-12-03T18:00:00+01:00",
-    "end": "2026-12-03T22:00:00+01:00",
+    "start": "2026-12-03T20:00:00+01:00",
+    "end": "2026-12-03T23:00:00+01:00",
     "venue": {
         "name": "Smelteverket",
         "address": "Vulkan 5, 0178 Oslo",
         "city": "Oslo"
     },
-    "organizer": "Loca! Tango",
-    "dj": null,
+    "organizer": "Loca! Milonga",
+    "dj": "Loca!",
     "teachers": [],
     "price_nok": null,
     "student_price_nok": null,
@@ -25,7 +24,7 @@
     "source_url": "https://happeningnext.com/event/loca-tango-eid3a0bxq22v1",
     "published_date": null,
     "first_seen": "2026-10-01",
-    "last_verified": "2026-10-14",
+    "last_verified": "2026-10-17",
     "crawl_timestamp": "2026-10-01T22:05:00+02:00",
     "confidence": 0.3,
     "music_style": [],
