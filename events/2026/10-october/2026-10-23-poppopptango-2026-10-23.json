@@ -1,0 +1,43 @@
+{
+    "id": "poppopptango-2026-10-23",
+    "title": "PoppOppTango",
+    "types": [
+        "milonga"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-10-23T20:00:00+02:00",
+    "end": "2026-10-23T23:00:00+02:00",
+    "venue": {
+        "name": "Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen",
+    "dj": "AnniKind",
+    "teachers": [],
+    "price_nok": null,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "PoppOppTango ❤️\nVelkommen til PoppOppTango i Tangoskolens lokaler!\nI kveld danser vi i Halli (mellomstore salen)\nInngang 150 NOK per person\nTDJ AnniKind (mest tradisjonell tango, vals og milonga + litt alternativt)\nVi serverer te/kaffe/vann/frukt/snacks\nTa med egen drikke, en venn og kom!",
+    "lang": "nb",
+    "translations": {
+        "en": {
+            "title": "PoppOppTango",
+            "description": "PoppOppTango ❤️\nWelcome to PoppOppTango at Tangoskolen's venue!\nTonight we’ll be dancing in Halli (the medium-sized hall).\nAdmission: 150 NOK per person.\nTDJ: AnniKind (mostly traditional tango, waltz, and milonga, plus some alternative tracks).\nWe provide tea, coffee, water, fruit, and snacks.\nBring your own drinks, bring a friend, and come join us!"
+        }
+    },
+    "music_style": [
+        "traditional"
+    ],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://www.facebook.com/events/1471921604995219/",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/51",
+    "published_date": "2026-10-18",
+    "first_seen": "2026-10-18",
+    "last_verified": "2026-10-18",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
