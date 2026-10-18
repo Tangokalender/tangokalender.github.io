@@ -108,6 +108,14 @@
     "osm": "node/2785847520"
   },
   {
+    "address": "Nordahl Bruns gate 22 (BLS Kulturhus) Oslo",
+    "lat": null,
+    "lon": null,
+    "precision": "none",
+    "source": "nominatim",
+    "checked": "2026-10-18"
+  },
+  {
     "address": "Prinsens gate 26, Oslo",
     "lat": 59.912244,
     "lon": 10.739559,
