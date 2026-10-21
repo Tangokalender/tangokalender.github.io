@@ -134,6 +134,14 @@
     "osm": "node/6136458173"
   },
   {
+    "address": "Schweigaardsgate 34 2b, Oslo",
+    "lat": null,
+    "lon": null,
+    "precision": "none",
+    "source": "nominatim",
+    "checked": "2026-10-21"
+  },
+  {
     "address": "Thorvald Meyers gate 89, Oslo",
     "lat": 59.9188,
     "lon": 10.759222,
