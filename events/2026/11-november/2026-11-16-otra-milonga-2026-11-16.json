@@ -1,6 +1,6 @@
 {
     "id": "otra-milonga-2026-11-16",
-    "title": "Otra Milonga",
+    "title": "Otra Noche",
     "types": [
         "milonga"
     ],
@@ -16,15 +16,15 @@
     "organizer": "Otra Milonga",
     "dj": "Francesco",
     "teachers": [],
-    "price_nok": 100,
+    "price_nok": 150,
     "student_price_nok": null,
     "class_price_nok": null,
-    "description": "Ukentlig milonga med en blanding av tradisjonell og alternativ tango. Noen mandager starter med et eget program kl. 19–20. Følg @otramilonga på Instagram for endringer og pauser.",
+    "description": "Otra Milonga krysser brua og blir til Otra Noche for én kveld!\n\nMandag 16. november blir en unik milonga-opplevelse med levende musikk på Nieu Grünerløkka, for både nybegynnere og erfarne tangodansere. Hvis du har lyst til å prøve tangodans for aller første gang og samtidig oppleve levende musikk i Oslo, er dette kvelden for deg!\n\nVi har gleden av å ønske tango-sanger Martín Piñol velkommen; han skal opptre for oss under milongaen! Han har sunget tango i over 20 år og samarbeidet med La Juan D'Arienzo og mange andre orkestre. Vi gleder oss veldig til å få ham på scenen på Nieu! Du kan lese mer om ham nedenfor.\nVi starter med et kort introkurs i tangodans kl. 18.30, før milongaen (sosialdans) begynner rundt kl. 19.00. DJ Francesco spiller tradisjonell og alternativ musikk mellom live-innslagene.\n\nProgram:\n18.30–19.00: Introduksjonskurs med Heidi og Ada\n19.00–24.00: Milonga\nCa. 21.00–23.00: Konsertinnslag\nInngang: 150 kr / gratis for deg som for tiden deltar på et fast, ukentlig tangokurs i Oslo.",
     "source": "Otra Milonga (Instagram)",
     "source_url": "https://www.instagram.com/otramilonga/",
     "published_date": null,
     "first_seen": "2026-10-01",
-    "last_verified": "2026-10-13",
+    "last_verified": "2026-10-22",
     "crawl_timestamp": "2026-10-02T23:30:00+02:00",
     "confidence": 0.7,
     "music_style": [
@@ -34,5 +34,11 @@
     ],
     "flyer_url": null,
     "video": null,
-    "link": "https://www.instagram.com/otramilonga/"
+    "link": "https://www.instagram.com/otramilonga/",
+    "lang": "en",
+    "translations": {
+        "nb": {
+            "description": "Otra Milonga crosses the bridge, and becomes Otra Noche for one night!\n\nMonday November 16th will be a unique live milonga experience at Nieu Grünerløkka for both complete beginners and regular dancers. If you want to test tango dance for the first time, and enjoy live music in one night, this is your change.\n\nWe have the honour of hosting Martín Piñol, who will sing for us during the milonga! He’s been singing tango for over 20 years and collaborated with La Juan D'Arienzo and many other orchestras, and we're very excited to have him perform at Nieu! You can read more about him below.\nWe start with a short intro class at 6.30pm before the milonga (social dance) starts around 7pm. DJ Francesco will play traditional and alternative tandas between the live sets.\n\nProgram:\n18.30-19.00: Intro class with Heidi and Ada\n19.00-24.00: Milonga\n21.00-23.00-ish: Concert sets\nEntrance 150kr / free if you're currently enrolled in a recurring tango class in Oslo."
+        }
+    }
 }
