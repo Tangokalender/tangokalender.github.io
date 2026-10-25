@@ -1,0 +1,38 @@
+{
+    "id": "leading-ladies-gentlemen-2026-10-31",
+    "title": "Leading Ladies & Gentlemen",
+    "types": [
+        "class"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-10-31T13:00:00+01:00",
+    "end": "2026-10-31T16:00:00+01:00",
+    "venue": {
+        "name": "Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen",
+    "dj": null,
+    "teachers": [
+        "Nur Yaldiz"
+    ],
+    "price_nok": 500,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "Welcome to Leading Ladies & Gentlemen\nWorkshop with Nur Yaldiz -\nan active and elegant tangodancer, great TangoDJ and a wonderful, warm tangoteacher and human!\nLeading Ladies and Gentlemen – Exploring Turns\nNur Yaldiz says:\nLast April, we worked on our walk and how we organize our bodies. This time, I propose that we focus on turns.\nHere are the main elements we will explore together during these three hours:\n- Organising our bodies and posture to create more natural, organic turns without forcing movements.\n- Using our spatial awareness to guide spirals and turns.\n- Exploring how turns change depending on the available space and direction of movement.\n- Connecting the eyes, chest, ribcage, tailbone and weight transfer.\n- Understanding how to organize our own bodies to communicate clearly with our partner.\nI look forward to seeing you on the dance floor!\nThis workshop is designed especially for women who want to strengthen their leading role. At the same time, it is open to all leaders who wish to bring more structure, awareness, and responsibility into their dance. These three hours are for dancers who want to be safe, supportive, and genuinely enjoyable partners on the social floor.\n----------------------------------------------------------------\nWe recommend that you sign up with a partner on your own level. If you register without a partner, we will try our best to find someone suitable for you to dance with.\nWe expect you to be open minded and want to inform you that we only focus on dancing roles, not gender ❤\nThe workshop is three hours with one 15 minutes break.\nThe price is 500 NOK per person.\nSign up today! Follow this link -> https://tangoskolenosloregistration.wordpress.com/",
+    "lang": "en",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://www.facebook.com/events/986555757200331/",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/72",
+    "published_date": "2026-10-25",
+    "first_seen": "2026-10-25",
+    "last_verified": "2026-10-25",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
