@@ -90,6 +90,15 @@
     "osm": "node/2785550139"
   },
   {
+    "address": "Mariboes gate 13, 1. etg, Oslo",
+    "lat": 59.917188,
+    "lon": 10.751772,
+    "precision": "house",
+    "source": "kartverket",
+    "checked": "2026-10-25",
+    "note": "Kartverket: «Mariboes gate 13, 0183 OSLO»"
+  },
+  {
     "address": "N, Oslo",
     "lat": 59.909041,
     "lon": 10.749527,
