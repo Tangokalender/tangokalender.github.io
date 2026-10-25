@@ -1,0 +1,36 @@
+{
+    "id": "kurs-for-lett-ovet-litt-viderekommen-queer-tango-2026-10-28",
+    "title": "Kurs for lett øvet litt viderekommen (queer tango)",
+    "types": [
+        "class"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-10-28T17:00:00+01:00",
+    "end": "2026-10-28T18:30:00+01:00",
+    "venue": {
+        "name": "Mariboes gate 13, 1. etg",
+        "address": "Mariboes gate 13, 1. etg, Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Oslo Tango Queer",
+    "dj": null,
+    "teachers": [],
+    "price_nok": null,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "Kurs i queer tango for lett øvet/litt viderekomne. Se lenken for informasjon om påmelding.",
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://foreningenfri.no/fylkeslag/fri-oslo-og-viken/aktiviteter-fri-oslo-og-viken/oslo-tango-queer/",
+    "source": "Innsendt via KI-skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/68",
+    "published_date": "2026-10-25",
+    "first_seen": "2026-10-25",
+    "last_verified": "2026-10-25",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
