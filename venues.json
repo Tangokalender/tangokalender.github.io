@@ -36,6 +36,15 @@
     "note": "Kartverket: «Christian Krohgs gate 60» (Nieu Grünerløkka, OSM node/13853326025)"
   },
   {
+    "address": "Dronningens gate 16, 0105 Oslo",
+    "lat": 59.909612,
+    "lon": 10.745752,
+    "precision": "house",
+    "source": "nominatim",
+    "checked": "2026-10-29",
+    "osm": "node/2785920097"
+  },
+  {
     "address": "Ebbells gate 1, 0183 Oslo",
     "lat": 59.915309,
     "lon": 10.754279,
