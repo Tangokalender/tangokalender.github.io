@@ -2,7 +2,7 @@
 
 This is the **Oslo data repo** of Tangokalender (https://tango.oslo.no/): `events/` (one JSON file per event,
 `events/YYYY/MM-month/YYYY-MM-DD-<id>.json`), `venues.json` (geocoding cache), `site.toml` (site settings),
-`assets/og-image.png` (link preview), the rendered issue forms (`.github/ISSUE_TEMPLATE`) and thin workflows.
+`assets/og-image.png` (link preview), `assets/icons/` (favicon and home-screen icons, `bin/make_icons.jl`), the rendered issue forms (`.github/ISSUE_TEMPLATE`) and thin workflows.
 All code, the schemas, the form templates and the reusable workflows are in the package repo
 https://github.com/Tangokalender/TangoKalender.jl (see its CLAUDE.md); `Project.toml` pins the version.
 Local checkouts in `/workspace`: this repo is `OsloEvents/`, the code repo `TangoKalender.jl/` (each folder named after
