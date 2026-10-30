@@ -1,0 +1,38 @@
+{
+    "id": "poppopptango-2026-11-06",
+    "title": "PoppOppTango",
+    "types": [
+        "milonga"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-11-06T20:00:00+01:00",
+    "end": "2026-11-06T23:00:00+01:00",
+    "venue": {
+        "name": "Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen",
+    "dj": "AnniKind",
+    "teachers": [],
+    "price_nok": null,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": null,
+    "lang": "nb",
+    "translations": null,
+    "music_style": [
+        "traditional"
+    ],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://www.facebook.com/events/1451983583693615/",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/74",
+    "published_date": "2026-10-25",
+    "first_seen": "2026-10-25",
+    "last_verified": "2026-10-25",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}

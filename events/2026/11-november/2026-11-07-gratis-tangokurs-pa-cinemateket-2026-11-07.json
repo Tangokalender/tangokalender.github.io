@@ -1,0 +1,38 @@
+{
+    "id": "gratis-tangokurs-pa-cinemateket-2026-11-07",
+    "title": "Gratis Tangokurs på Cinemateket",
+    "types": [
+        "class",
+        "festival",
+        "other"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-11-07T16:30:00+01:00",
+    "end": "2026-11-07T17:15:00+01:00",
+    "venue": {
+        "name": "Cinemateket",
+        "address": "Dronningens gate 16, 0105 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Film fra Sør",
+    "dj": null,
+    "teachers": [],
+    "price_nok": 0,
+    "student_price_nok": 0,
+    "class_price_nok": 0,
+    "description": "Før visningen av TANGO på Cinemateket i Oslo blir det tangokurs fra 16:30.\n\nPå kurset lærer du det du trenger for å hive deg ut på gulvet. Tangoens A B C. Etter kurset kan du få med deg klassikeren Tango fra 1998 i Tancred. Filmen starter klokka 17:30. Etter filmen blir det milonga – Buenos Aires-style – i Lemongrass i første etasje.",
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://www.filmfrasor.no/no/arrangement/2026/tangokurs-p%C3%A5-cinemateket",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/78",
+    "published_date": "2026-10-29",
+    "first_seen": "2026-10-29",
+    "last_verified": "2026-10-29",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}

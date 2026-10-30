@@ -4,7 +4,7 @@
     "types": [
         "milonga"
     ],
-    "status": "scheduled",
+    "status": "cancelled",
     "series": "milonga-loca",
     "start": "2026-10-29T19:00:00+01:00",
     "end": "2026-10-29T23:00:00+01:00",
@@ -14,7 +14,7 @@
         "city": "Oslo"
     },
     "organizer": "Loca! Milonga",
-    "dj": "Mariano Pignatiello",
+    "dj": "Loca!",
     "teachers": [],
     "price_nok": null,
     "student_price_nok": null,
@@ -24,7 +24,7 @@
     "source_url": "https://happeningnext.com/event/loca-tango-eid3a0bxq22v1",
     "published_date": null,
     "first_seen": "2026-10-01",
-    "last_verified": "2026-10-22",
+    "last_verified": "2026-10-29",
     "crawl_timestamp": "2026-10-01T22:05:00+02:00",
     "confidence": 0.3,
     "music_style": [
