@@ -229,11 +229,11 @@ version = "1.0.3"
 
 [[deps.TangoKalender]]
 deps = ["Accessors", "Dates", "Downloads", "JSON", "JSONSchema", "PrecompileTools", "StructUtils", "StyledStrings", "TOML"]
-git-tree-sha1 = "c0d50408f830ecface5bfbacbcb946737f210015"
-repo-rev = "v1.8.4"
+git-tree-sha1 = "4e8c29385d25dfeb3e03d87dc955a844f7c1fe08"
+repo-rev = "v1.8.5"
 repo-url = "git@github.com:Tangokalender/TangoKalender.jl.git"
 uuid = "8fa2004d-d644-4dc6-9815-18e81ae74980"
-version = "1.8.4"
+version = "1.8.5"
 
 [[deps.URIs]]
 git-tree-sha1 = "908fec9df6c5de98548ead82a468c95ccf6cd263"
