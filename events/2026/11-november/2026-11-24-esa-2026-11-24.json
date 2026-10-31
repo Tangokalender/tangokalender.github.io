@@ -23,11 +23,12 @@
     "source_url": "https://www.tangotraveller.co/tango-events-in-oslo",
     "published_date": "2026-09-15",
     "first_seen": "2026-09-30",
-    "last_verified": "2026-10-10",
+    "last_verified": "2026-10-31",
     "crawl_timestamp": "2026-09-30T16:51:00+02:00",
     "confidence": 0.9,
     "music_style": [],
     "flyer_url": null,
     "video": null,
-    "link": null
+    "link": null,
+    "status": "cancelled"
 }
