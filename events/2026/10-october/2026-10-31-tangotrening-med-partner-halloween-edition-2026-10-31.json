@@ -1,0 +1,36 @@
+{
+    "id": "tangotrening-med-partner-halloween-edition-2026-10-31",
+    "title": "TangoTrening med partner Halloween Edition!",
+    "types": [
+        "practica"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-10-31T16:00:00+01:00",
+    "end": "2026-10-31T18:30:00+01:00",
+    "venue": {
+        "name": "Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen",
+    "dj": null,
+    "teachers": [],
+    "price_nok": 100,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": null,
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": "https://github.com/user-attachments/assets/025e495f-8910-458d-827e-770a2cdba3a3",
+    "video": null,
+    "link": "https://www.facebook.com/events/39647384698210642/",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/84",
+    "published_date": "2026-10-31",
+    "first_seen": "2026-10-31",
+    "last_verified": "2026-10-31",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
