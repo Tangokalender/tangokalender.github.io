@@ -1,6 +1,6 @@
 {
     "id": "tangoskolen-klasse-2026-11-11",
-    "title": "TangoKlasse",
+    "title": "TangoKlasse / Workshop med Mirabai Commer",
     "types": [
         "class"
     ],
@@ -15,7 +15,9 @@
     },
     "organizer": "Tangoskolen",
     "dj": null,
-    "teachers": [],
+    "teachers": [
+        "Mirabai Commer"
+    ],
     "price_nok": 300,
     "student_price_nok": null,
     "class_price_nok": null,
@@ -24,7 +26,7 @@
     "source_url": "https://tangoskolenoslo.wordpress.com/",
     "published_date": null,
     "first_seen": "2026-10-01",
-    "last_verified": "2026-10-01",
+    "last_verified": "2026-10-31",
     "crawl_timestamp": "2026-10-01T21:55:00+02:00",
     "confidence": 0.3,
     "music_style": [],
