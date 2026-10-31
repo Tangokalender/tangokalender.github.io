@@ -2,12 +2,12 @@
     "id": "leading-ladies-gentlemen-2026-10-31",
     "title": "Leading Ladies & Gentlemen",
     "types": [
-        "class"
+        "workshop"
     ],
     "status": "scheduled",
     "series": null,
-    "start": "2026-10-31T13:00:00+01:00",
-    "end": "2026-10-31T16:00:00+01:00",
+    "start": "2026-11-21T14:00:00+01:00",
+    "end": "2026-11-21T17:00:00+01:00",
     "venue": {
         "name": "Tangoskolen",
         "address": "Nordahl Bruns gate 22, 0165 Oslo",
@@ -32,7 +32,7 @@
     "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/72",
     "published_date": "2026-10-25",
     "first_seen": "2026-10-25",
-    "last_verified": "2026-10-25",
+    "last_verified": "2026-10-31",
     "crawl_timestamp": null,
     "confidence": 1.0
 }
