@@ -1,0 +1,38 @@
+{
+    "id": "workshop-with-sebastian-de-la-vallina-the-art-of-c-2026-12-06",
+    "title": "Workshop with Sebastian de la Vallina : The Art of Connection",
+    "types": [
+        "workshop"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-12-06T12:00:00+01:00",
+    "end": "2026-12-06T15:00:00+01:00",
+    "venue": {
+        "name": "Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen",
+    "dj": null,
+    "teachers": [
+        "Sebastian de la Vallina"
+    ],
+    "price_nok": 500,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "Welcome to workshop with Sebastian de la Vallina,\na wonderful teacher, dancer, musician and human!\nOne of Tangoskolen's absolute favorites!\nNo one else teaches tango like this man <3\nDo not miss this!!!\n\nWorkshop TOPIC : The Art of Connection\n\nThis seminar is for ALL LEVELS (minimum a beginners course in the past please)\n\nWe recommend that you sign up with a partner on your own level. If you register without a partner, we will try our best to find someone suitable for you to dance with.\nWe expect you to be open minded and want to inform you that we only focus on dancing roles, not gender <3\n\nThe workshop is 3 hours included short breaks.\nThe price is 500 NOK per person.\n\nSign up today! Follow this link -> https://tangoskolenosloregistration.wordpress.com/\n\n<3\n\n<img width=\"2048\" height=\"1942\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6061f97b-e587-45eb-9045-d097c7a71b5f\" />",
+    "lang": "en",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://www.facebook.com/events/1528137729347331/",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/107",
+    "published_date": "2026-11-02",
+    "first_seen": "2026-11-02",
+    "last_verified": "2026-11-02",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
