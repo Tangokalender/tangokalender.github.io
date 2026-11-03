@@ -1,0 +1,38 @@
+{
+    "id": "tangoklasse-med-mirabai-commer-playful-legwork-and-2026-11-07",
+    "title": "TangoKlasse med Mirabai Commer : Playful legwork and more",
+    "types": [
+        "workshop"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-11-07T12:00:00+01:00",
+    "end": "2026-11-07T15:00:00+01:00",
+    "venue": {
+        "name": "Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen",
+    "dj": null,
+    "teachers": [
+        "Mirabai Commer"
+    ],
+    "price_nok": 500,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "Velkommen til HelgeWorkshop med Mirabai Commer!\nTemaene for workshopen er dette :\n- Ganchos, Enganches & Other Tango Entanglements: playful legwork.\n- Giros Unleashed: structure and improvisation.\nDet blir pauser.\nPrisen er 500,- per person.\nKlassen passer for alle som er på litt øvet/øvet nivå og har minimum et nybegynnerkurs i ryggen.\nPåmelding er nødvendig for alle, med eller uten partner.\nVi tilbyr deg plass når noen i den motsatte rollen melder seg på og vi har ikke fokus på gender.\nGå direkte til påmelding:\nhttps://tangoskolenosloregistration.wordpress.com/",
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": "https://github.com/user-attachments/assets/6da1704e-d597-4f61-b40d-00d6351c97b0",
+    "video": null,
+    "link": "https://www.facebook.com/events/1644869790616467/",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/109",
+    "published_date": "2026-11-02",
+    "first_seen": "2026-11-02",
+    "last_verified": "2026-11-02",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
