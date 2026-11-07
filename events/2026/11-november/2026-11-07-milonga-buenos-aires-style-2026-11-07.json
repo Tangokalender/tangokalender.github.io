@@ -8,7 +8,7 @@
     "status": "scheduled",
     "series": null,
     "start": "2026-11-07T20:00:00+01:00",
-    "end": "2026-11-07T21:30:00+01:00",
+    "end": "2026-11-08T01:30:00+01:00",
     "venue": {
         "name": "Cinemateket",
         "address": "Dronningens gate 16, 0105 Oslo",
@@ -31,7 +31,7 @@
     "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/80",
     "published_date": "2026-10-29",
     "first_seen": "2026-10-29",
-    "last_verified": "2026-10-29",
+    "last_verified": "2026-11-07",
     "crawl_timestamp": null,
     "confidence": 1.0
 }
