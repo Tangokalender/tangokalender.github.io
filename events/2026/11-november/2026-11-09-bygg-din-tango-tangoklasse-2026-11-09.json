@@ -1,0 +1,38 @@
+{
+    "id": "bygg-din-tango-tangoklasse-2026-11-09",
+    "title": "Bygg Din Tango - TangoKlasse",
+    "types": [
+        "workshop"
+    ],
+    "status": "scheduled",
+    "series": "bygg-din-tango-tangoklasse",
+    "start": "2026-11-09T18:00:00+01:00",
+    "end": "2026-11-09T19:30:00+01:00",
+    "venue": {
+        "name": "Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen",
+    "dj": null,
+    "teachers": [
+        "Tangoskolens instruktører"
+    ],
+    "price_nok": 300,
+    "student_price_nok": null,
+    "class_price_nok": 250,
+    "description": "På mandager har Tangoskolen byggeklossene du trenger for å fylle på med innhold og teknikk i din tango.\nMeld deg på en eller flere klasser. Rabatt ved påmelding til 3 eller flere klasser.\nPris for en klasse er 300 NOK per person (250 NOK med rabatt).\nKlassen er i Halli og TangoTrening rett etterpå er inkludert.\n\nKlassene undervises av Tangoskolens instruktører og det er forskjellig tema hver uke.\nPåmelding er nødvendig, senest innen kl.12.00 samme dag. Ved for få påmeldte blir klassen avlyst.\n\nDu må ha gått minimum et nybegynnerkurs for å delta og det beste er å melde seg på med en partner på samme nivå.\nHvis du melder deg på alene, blir du tilbudt plass når en person i motsatt rolle melder seg på.\nVi tar ikke hensyn til gender, kun danserolle.\n\nMeld deg på her -> https://tangoskolenosloregistration.wordpress.com/\nKontakt Anniken på 94833036 for mer info eller påmelding.\n\nSe ukens tema i påmeldingsskjemaet eller inne i eventet på Facebook :\nhttps://www.facebook.com/events/28264827946534736/",
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": "https://github.com/user-attachments/assets/56387d45-5538-42bf-a64e-3f226af56a03",
+    "video": null,
+    "link": "https://www.facebook.com/events/28264827946534736/",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/123",
+    "published_date": "2026-11-08",
+    "first_seen": "2026-11-08",
+    "last_verified": "2026-11-08",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
