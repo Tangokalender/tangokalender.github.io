@@ -1,0 +1,43 @@
+{
+    "id": "oslo-tangos-varkurs-2027-avansert-2027-04-15",
+    "title": "Oslo Tangos vårkurs 2027 avansert",
+    "types": [
+        "class"
+    ],
+    "status": "scheduled",
+    "series": "oslo-tangos-varkurs-2027-avansert",
+    "start": "2027-04-15T20:00:00+02:00",
+    "end": "2027-04-15T21:00:00+02:00",
+    "venue": {
+        "name": "Sagene Samfunnshus",
+        "address": "Kristiandsands gate 2",
+        "city": "Oslo"
+    },
+    "organizer": "Oslo Tango",
+    "dj": null,
+    "teachers": [
+        "Ina Eriksen",
+        "Espen Gees",
+        "Ole Nylund Hagen"
+    ],
+    "price_nok": 2000,
+    "student_price_nok": 800,
+    "class_price_nok": 2000,
+    "description": "Oslo Tangos kurs vinter og vår 2027\nVi ønsker velkommen til Oslo Tango - vinter og vår 2027.\n\nTango\n\nDen mest elegante og romantiske av alle pardanser. \nHer lærer du grunnleggende argentinsk tango. \nVi underviser sånn som de danser i Buenos Aires. \nDanseglede + musikkglede = tango\nOPPSTART 7. januar \nTirsdager/ Ekeberg Tangoklubb\n\n1800 - 1930 Nybegynner, praktika. Her kan du komme lære tango, danse, høre på musikk. Kun dropp inn.\nTorsdager / Sagene Samfunnshus\n\n1800 - 1900 Nybegynner\n1900- 1955  Lett øvet\n2000 - 2100 Viderekommen\n2100 - 2200  Praktika \nPraktisk: \n\nDans gjerne i dansesko med skinnsåle eller sokker. Ha på behagelige klær, du trenger ikke pynte deg til kurs. Men til milongaene går det ikke an å pynte seg for mye. \nDet er alltid lurt å melde seg på med partner, men mulig å melde seg på alene.\nEr du ung (15-25 år)så har vi et  veldig billig tilbud\nSted: Sagene Samfunnshus, Kristiandsand gate 2 /// Sletta Kafe Ekeberg, Ballplassvegen 2\n\nAlle klasser er åpen for drop in hele året, men ta kontakt på forhånd. \n\nPris: \n\n4000kr EARLYBIRD for våren 1 kurs + praktika 7. januar - 24. juni\n5000kr EARLYBIRD for våren 2 kurs + praktika 7. januar - 24. juni\n2000 kr alle kurs (1 time x 8 uker) \n800 kr  for Tangoung 15 - 25 år \n1200 kr studenter over 25 år \nEn klasse dropp inn 300 kr\n2500 kr klippekort må brukes innen 6 måneder\nEr du eldre, student, pensjonert, spør om pris, vi gir rabatt.\n\nPrivattimer: 1000 kr pr time, 5 privattimer = 4000 kr \n\nDu kan booke privattimer i par eller alene. Vi gir timer til fører og følgere. Det anbefales som supplement til kurs og dans på milonga/praktika.\n\nSemester: \n\n7. januar - 24. juni (du kan ta hele semesteret, eller dele opp i to 8 ukers kurs og et 7 ukers kurs)\n\nFri vinterferie og påske",
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": "https://github.com/user-attachments/assets/836d68cd-1bf8-4c7b-8e2d-c3ca6f108936",
+    "video": {
+        "platform": "youtube",
+        "id": "1V2Kwc8AHLc"
+    },
+    "link": "https://www.letsreg.com/no/event/oslotango27#init",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/130",
+    "published_date": "2026-11-11",
+    "first_seen": "2026-11-11",
+    "last_verified": "2026-11-11",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
