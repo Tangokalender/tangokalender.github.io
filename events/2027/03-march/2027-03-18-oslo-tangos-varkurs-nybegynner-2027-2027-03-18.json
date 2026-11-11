@@ -1,0 +1,39 @@
+{
+    "id": "oslo-tangos-varkurs-nybegynner-2027-2027-03-18",
+    "title": "Oslo Tangos vårkurs nybegynner 2027",
+    "types": [
+        "class"
+    ],
+    "status": "scheduled",
+    "series": "oslo-tangos-varkurs-nybegynner-2027",
+    "start": "2027-03-18T18:00:00+01:00",
+    "end": "2027-03-18T19:00:00+01:00",
+    "venue": {
+        "name": "Sagene Samfunnshus",
+        "address": "Kristiandsands gata 2",
+        "city": "Oslo"
+    },
+    "organizer": "Oslo Tango",
+    "dj": null,
+    "teachers": [
+        "Ina Eriksen",
+        "Espen Gees"
+    ],
+    "price_nok": 2000,
+    "student_price_nok": 800,
+    "class_price_nok": 2000,
+    "description": null,
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": "https://github.com/user-attachments/assets/772eeb91-9b43-4907-8e95-4c0f70c68c72",
+    "video": null,
+    "link": "https://www.letsreg.com/no/event/oslotango27#init",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/126",
+    "published_date": "2026-11-11",
+    "first_seen": "2026-11-11",
+    "last_verified": "2026-11-11",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
