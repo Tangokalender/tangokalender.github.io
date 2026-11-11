@@ -81,6 +81,14 @@
     "osm": "node/2788528470"
   },
   {
+    "address": "Kristiandsands gate 2, Oslo",
+    "lat": null,
+    "lon": null,
+    "precision": "none",
+    "source": "nominatim",
+    "checked": "2026-11-11"
+  },
+  {
     "address": "Kristiansandsgata 2, Oslo",
     "lat": 59.938268,
     "lon": 10.752807,
