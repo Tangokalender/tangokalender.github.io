@@ -63,6 +63,14 @@
     "osm": "node/2788287632"
   },
   {
+    "address": "Josefinesgate 32, Oslo",
+    "lat": null,
+    "lon": null,
+    "precision": "none",
+    "source": "nominatim",
+    "checked": "2026-11-11"
+  },
+  {
     "address": "Karl Johans gt 1, Oslo",
     "lat": 59.911377,
     "lon": 10.749404,
