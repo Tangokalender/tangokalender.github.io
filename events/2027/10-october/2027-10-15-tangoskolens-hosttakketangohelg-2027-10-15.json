@@ -1,0 +1,38 @@
+{
+    "id": "tangoskolens-hosttakketangohelg-2027-10-15",
+    "title": "Tangoskolens HøstTakkeTangoHelg",
+    "types": [
+        "other"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2027-10-15T19:00:00+02:00",
+    "end": "2027-10-18T16:00:00+02:00",
+    "venue": {
+        "name": "Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen",
+    "dj": "TBA",
+    "teachers": [
+        "TBA"
+    ],
+    "price_nok": null,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": null,
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": null,
+    "video": null,
+    "link": "https://tangoskolen.no",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/140",
+    "published_date": "2026-11-11",
+    "first_seen": "2026-11-11",
+    "last_verified": "2026-11-11",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
