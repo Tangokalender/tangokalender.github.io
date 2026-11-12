@@ -1,0 +1,44 @@
+{
+    "id": "workshop-with-juan-ada-colgadas-volcadas-2026-11-21",
+    "title": "Workshop with Juan & Ada - Colgadas & Volcadas",
+    "types": [
+        "workshop",
+        "practica"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-11-21T11:30:00+01:00",
+    "end": "2026-11-21T16:00:00+01:00",
+    "venue": {
+        "name": "Blåsalen, Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Juan Ignacio Bonnani & Ada-Marie Sneve",
+    "dj": null,
+    "teachers": [
+        "Juan Ignacio Bonnani",
+        "Ada-Marie Sneve"
+    ],
+    "price_nok": 550,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "Welcome a dynamic and fun weekend the 21st and 22nd of November 💃 🕺\n\nJuan Ignacio Bonanni, originally from Buenos Aires, is coming back to Oslo and joining forces with the local dancer Ada-Marie Sneve\nWe will give you two days where we focus on grounding common concepts in your body’s natural movements to help your dancing feel comfortable and fluid\n\nSaturday will be about how to maintain the axis (both for leaders and followers) in dynamic movements like colgadas and volcadas,\nwhile Sunday is all about Milonga, and how to turn it from a stressful dance to a playful one 😉\n\nBoth days will consist of 3 hours of class, followed by 1 hour of guided practica\nIt is absolutely possible to register without a partner\nThe level of the classes will be adjusted to the participants, so everyone is welcome to join!\n\nThe price per person is 550 kr for one day, or 1000 kr for both days\nRegistration and more information here: [https://forms.gle/cmL5oH7xWUnKhEFEA](https://forms.gle/cmL5oH7xWUnKhEFEA)\n\nHope to see you! ❤️",
+    "lang": "en",
+    "translations": {
+        "nb": {
+            "description": "Velkommen til en dynamisk og gøyal helg den 21. og 22. november 💃 🕺\n\nJuan Ignacio Bonanni, originalt fra Buenos Aires, kommer tilbake til Oslo og slår seg sammen med den lokale danseren Ada-Marie Sneve\nVi byr på to dager der vi fokuserer på å legge til grunne kroppen sine naturlige bevegelser i dansingen din for å skape behag og flyt\n\nLørdag vil handle om hvordan å opprettholde aksen (både for ledere og følgere) i dynamiske bevegelser slik som colgada og volcada,\nmens på søndag handler alt om Milonga, og hvordan man kan endre det fra en stressende dans til en leken en 😉\n\nBegge dager vil bestå av 3 timer med kurs, etterfulgt av 1 time med veiledet practica\nDet er fult mulig å melde seg på uten partner\nNivået på klassene vil tilrettelegges kursdeltakerne, så alle er veldig velkomne!\n\nPrisen per person er 550 kr for én dag, eller 1000 kr for begge dagene\nRegistrering og mer informasjon her: [https://forms.gle/cmL5oH7xWUnKhEFEA](https://forms.gle/cmL5oH7xWUnKhEFEA)\n\nHåper å se deg der!  ❤️"
+        }
+    },
+    "music_style": [],
+    "flyer_url": "https://github.com/user-attachments/assets/ff0377ca-52bc-4181-accb-0a3be297690c",
+    "video": null,
+    "link": "https://fb.me/e/5kttIxTXb",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/162",
+    "published_date": "2026-11-12",
+    "first_seen": "2026-11-12",
+    "last_verified": "2026-11-12",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
