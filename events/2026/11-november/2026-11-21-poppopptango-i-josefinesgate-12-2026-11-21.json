@@ -1,0 +1,40 @@
+{
+    "id": "poppopptango-i-josefinesgate-12-2026-11-21",
+    "title": "PoppOppTango i Josefinesgate 12",
+    "types": [
+        "milonga"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-11-21T14:00:00+01:00",
+    "end": "2026-11-21T16:00:00+01:00",
+    "venue": {
+        "name": "Antropos Forlag",
+        "address": "Josefines gate 12, 0351 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen Mobile",
+    "dj": "AnniKind",
+    "teachers": [],
+    "price_nok": 50,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "pay_what_you_can": true,
+    "description": "PoppOppTango ❤️\nVelkommen til PoppOppTango i Oslos mest unike hus!\nKom og se selv 🙂\nInngang 50 NOK per person (eller så mye du vil)\nTDJ AnniKind (mest tradisjonell tango, vals og milonga + litt alternativt)\nOBS! Kun dansing i sko uten harde, spisse hæler, altså gjerne flate sneakers.\nVi serverer te/kaffe/vann/frukt/snacks\nTa med en venn og kom!\nPS! Hvis du ikke har danset før kan du melde deg på vår TangoIntro samme dag kl.12.30-14.00\nPris 300 NOK per person (inkludert PoppOppTango)\nDu trenger ikke partner til TangoIntro, men påmelding er nødvendig, gå direkte til påmeldingsskjemaet vårt ->\nhttps://tangoskolenosloregistration.wordpress.com",
+    "lang": "nb",
+    "translations": null,
+    "music_style": [
+        "traditional",
+        "alternative"
+    ],
+    "flyer_url": "https://github.com/user-attachments/assets/d3b78784-6f39-429a-ae26-5189fabb9890",
+    "video": null,
+    "link": "https://www.facebook.com/events/2168678644084051/",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/195",
+    "published_date": "2026-11-17",
+    "first_seen": "2026-11-17",
+    "last_verified": "2026-11-17",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
