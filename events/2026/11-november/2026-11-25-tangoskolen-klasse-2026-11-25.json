@@ -2,7 +2,7 @@
     "id": "tangoskolen-klasse-2026-11-25",
     "title": "TangoKlasse",
     "types": [
-        "class"
+        "workshop"
     ],
     "status": "scheduled",
     "series": "tangoskolen-klasse",
@@ -24,7 +24,7 @@
     "source_url": "https://tangoskolenoslo.wordpress.com/",
     "published_date": null,
     "first_seen": "2026-10-01",
-    "last_verified": "2026-10-01",
+    "last_verified": "2026-11-17",
     "crawl_timestamp": "2026-10-01T21:55:00+02:00",
     "confidence": 0.3,
     "music_style": [],
