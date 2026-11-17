@@ -1,0 +1,38 @@
+{
+    "id": "milongaklasse-med-angelika-2026-11-18",
+    "title": "MilongaKlasse med Angelika",
+    "types": [
+        "workshop"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2026-11-18T17:30:00+01:00",
+    "end": "2026-11-18T19:00:00+01:00",
+    "venue": {
+        "name": "Tangoskolen",
+        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "city": "Oslo"
+    },
+    "organizer": "Tangoskolen",
+    "dj": null,
+    "teachers": [
+        "Angelika"
+    ],
+    "price_nok": 300,
+    "student_price_nok": null,
+    "class_price_nok": null,
+    "description": "Velkommen til MilongaKlasse med Angelika imorgen, onsdag 18. november kl.17.30-19.00! Hun underviser masse herlig repertoar som SnakeWalk, Rebotes & Turns i milonga. Send SMS til Anniken på 948 33 036 hvis du vil være med ❤",
+    "lang": "nb",
+    "translations": null,
+    "music_style": [],
+    "flyer_url": "https://github.com/user-attachments/assets/27d70ad9-51d3-4d6c-b52d-b47d707c809a",
+    "video": null,
+    "link": "https://www.facebook.com/events/29560535180239335/",
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/193",
+    "published_date": "2026-11-17",
+    "first_seen": "2026-11-17",
+    "last_verified": "2026-11-17",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
