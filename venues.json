@@ -54,6 +54,15 @@
     "osm": "node/2785549622"
   },
   {
+    "address": "Josefines gate 12, 0351 Oslo",
+    "lat": 59.923974,
+    "lon": 10.728669,
+    "precision": "house",
+    "source": "nominatim",
+    "checked": "2026-11-17",
+    "osm": "node/2788285755"
+  },
+  {
     "address": "Josefines gate 32, 0351 Oslo",
     "lat": 59.921923,
     "lon": 10.724072,
