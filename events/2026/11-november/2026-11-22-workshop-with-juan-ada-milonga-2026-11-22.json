@@ -11,7 +11,7 @@
     "end": "2026-11-22T16:00:00+01:00",
     "venue": {
         "name": "Blåsalen, Tangoskolen",
-        "address": "Nordahl Bruns gate 22, 0165 Oslo",
+        "address": "Blåsalen, BLS - Bygdelagssamskipnaden",
         "city": "Oslo"
     },
     "organizer": "Juan Ignacio Bonnani & Ada-Marie Sneve",
@@ -38,7 +38,7 @@
     "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/164",
     "published_date": "2026-11-12",
     "first_seen": "2026-11-12",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-18",
     "crawl_timestamp": null,
     "confidence": 1.0
 }

@@ -18,6 +18,14 @@
     "note": "Nominatim: house number 2 (Sletta)"
   },
   {
+    "address": "Blåsalen, BLS - Bygdelagssamskipnaden, Oslo",
+    "lat": null,
+    "lon": null,
+    "precision": "none",
+    "source": "nominatim",
+    "checked": "2026-11-18"
+  },
+  {
     "address": "Bogstadveien 49, 0366 Oslo",
     "lat": 59.92866,
     "lon": 10.716441,
