@@ -10,7 +10,7 @@
     "start": "2026-11-21T11:30:00+01:00",
     "end": "2026-11-21T16:00:00+01:00",
     "venue": {
-        "name": "Blåsalen, Tangoskolen",
+        "name": "Blåsalen, BLS - Bygdelagssamskipnaden",
         "address": "Nordahl Bruns gate 22, 0165 Oslo",
         "city": "Oslo"
     },
@@ -38,7 +38,7 @@
     "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/162",
     "published_date": "2026-11-12",
     "first_seen": "2026-11-12",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-18",
     "crawl_timestamp": null,
     "confidence": 1.0
 }
