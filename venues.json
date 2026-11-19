@@ -193,6 +193,15 @@
     "osm": "node/6136458173"
   },
   {
+    "address": "Rolf Hofmos gate 34, 0655 Oslo, Norway",
+    "lat": 59.913195,
+    "lon": 10.788651,
+    "precision": "house",
+    "source": "nominatim",
+    "checked": "2026-11-19",
+    "osm": "node/6136458173"
+  },
+  {
     "address": "Schweigaardsgate 34 2b, Oslo",
     "lat": null,
     "lon": null,
