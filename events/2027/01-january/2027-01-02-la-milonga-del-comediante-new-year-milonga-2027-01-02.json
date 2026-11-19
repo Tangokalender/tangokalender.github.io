@@ -1,0 +1,38 @@
+{
+    "id": "la-milonga-del-comediante-new-year-milonga-2027-01-02",
+    "title": "La Milonga del Comediante: New Year Milonga!!",
+    "types": [
+        "milonga"
+    ],
+    "status": "scheduled",
+    "series": null,
+    "start": "2027-01-02T20:30:00+01:00",
+    "end": "2027-01-04T00:30:00+01:00",
+    "venue": {
+        "name": "Ensjø Kro",
+        "address": "Rolf Hofmos gate 34, 0655 Oslo, Norway",
+        "city": "Oslo"
+    },
+    "organizer": "Adrian Minkowicz",
+    "dj": "Adrian El Comediante",
+    "teachers": [],
+    "price_nok": 160,
+    "student_price_nok": 120,
+    "class_price_nok": null,
+    "description": "New Year Milonga!! January 2nd 20:30 at Ensjø Kro as always. Celebrate like crazy on the 31st, rest the hangover on the 1st, and come to the Kro to celebrate Happy New Year with your tango friends! Tables: you know the drill, send me a PM to reserve. Remember that you have to arrive before 21:30 if you have a table. You are also welcome without reservation. Resident TDJ Adrian El Comediante. Time: 20:30 to 0:30ish Price: NOK 160 Come and celebrate at the most “porteña” milonga of Oslo. Join the Party!",
+    "lang": "en",
+    "translations": null,
+    "music_style": [
+        "traditional"
+    ],
+    "flyer_url": "https://github.com/user-attachments/assets/09356ae2-e397-4fca-ab0f-dccc3d47cec8",
+    "video": null,
+    "link": null,
+    "source": "Innsendt via skjema",
+    "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/202",
+    "published_date": "2026-11-19",
+    "first_seen": "2026-11-19",
+    "last_verified": "2026-11-19",
+    "crawl_timestamp": null,
+    "confidence": 1.0
+}
