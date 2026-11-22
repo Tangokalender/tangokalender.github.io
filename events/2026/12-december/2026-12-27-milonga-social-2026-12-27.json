@@ -13,21 +13,23 @@
         "city": "Oslo"
     },
     "organizer": "Unni Hermansen",
-    "dj": "Åge Akkerman, Amsterdam",
+    "dj": "Amelia",
     "teachers": [],
     "price_nok": 200,
     "student_price_nok": 100,
     "class_price_nok": null,
-    "description": "Milonga Social er Oslo's største (og eldste) ukentlige milonga. Høst, vinter og vår er det vanligvis Milonga Social fredager. Det kan imidlertid være endringer noen helger. Følg med på Facebook siden \"Tango Events in Oslo\", der jeg legger ut event på kommende ukes arrangement.\nMilonga Social is Oslo's biggest (and oldest) weekly milonga. During fall, winter and spring, we are usually hosting milongas on Fridays. Please check for the latest updates.\nEntry fee is cash 200.- in Nok or 20.- euros. Feel free to bring your preferred drinks. We invite international and local dancers to join us! Students get a discount.",
+    "description": "Milonga Social er Oslo's største (og eldste) ukentlige milonga. Høst, vinter og vår er det vanligvis Milonga Social fredager. Det kan imidlertid være endringer noen helger. Følg med på Facebook siden \"Tango Events in Oslo\", der jeg legger ut event på kommende ukes arrangement.\nMilonga Social is Oslo's biggest (and oldest) weekly milonga. During fall, winter and spring, we are usually hosting milongas on Fridays. Please check for the latest updates.\n\nEntry fee is cash 200.- in Nok or 20.- euros. Feel free to bring your preferred drinks. We invite international and local dancers to join us! Students get a discount.",
     "source": "Tango Events in Oslo / AllEvents",
     "source_url": "https://allevents.in/oslo/3-juledags-milonga-social-s%C3%B8ndag-tdj-tba/200030785974858",
     "published_date": null,
     "first_seen": "2026-10-11",
-    "last_verified": "2026-11-06",
+    "last_verified": "2026-11-22",
     "crawl_timestamp": null,
     "confidence": 0.9,
-    "music_style": [],
-    "flyer_url": null,
+    "music_style": [
+        "traditional"
+    ],
+    "flyer_url": "https://www.facebook.com/events/1118471890617807/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22unknown%22%2C%22surface%22%3A%22home%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22left_rail%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
     "video": null,
     "link": null,
     "series": "milonga-social"
