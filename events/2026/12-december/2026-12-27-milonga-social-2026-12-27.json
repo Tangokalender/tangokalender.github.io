@@ -23,14 +23,14 @@
     "source_url": "https://allevents.in/oslo/3-juledags-milonga-social-s%C3%B8ndag-tdj-tba/200030785974858",
     "published_date": null,
     "first_seen": "2026-10-11",
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "crawl_timestamp": null,
     "confidence": 0.9,
     "music_style": [
         "traditional"
     ],
-    "flyer_url": "https://www.facebook.com/events/1118471890617807/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22unknown%22%2C%22surface%22%3A%22home%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22left_rail%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+    "flyer_url": null,
     "video": null,
-    "link": null,
+    "link": "https://www.facebook.com/events/1118471890617807/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22unknown%22%2C%22surface%22%3A%22home%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22left_rail%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
     "series": "milonga-social"
 }
