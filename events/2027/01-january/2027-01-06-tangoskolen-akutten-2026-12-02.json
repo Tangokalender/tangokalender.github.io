@@ -6,8 +6,8 @@
     ],
     "status": "scheduled",
     "series": "tangoskolen-akutten",
-    "start": "2026-12-02T17:00:00+01:00",
-    "end": "2026-12-02T18:00:00+01:00",
+    "start": "2027-01-06T18:00:00+01:00",
+    "end": "2027-01-06T19:00:00+01:00",
     "venue": {
         "name": "Tangoskolen",
         "address": "Nordahl Bruns gate 22",
@@ -32,7 +32,7 @@
     "source_url": "https://github.com/Tangokalender/tangokalender.github.io/issues/186",
     "published_date": "2026-11-17",
     "first_seen": "2026-11-17",
-    "last_verified": "2026-11-17",
+    "last_verified": "2026-11-24",
     "crawl_timestamp": null,
     "confidence": 1.0
 }
