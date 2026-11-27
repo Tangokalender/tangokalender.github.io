@@ -4,8 +4,8 @@
     "types": [
         "milonga"
     ],
-    "start": "2026-11-28",
-    "end": null,
+    "start": "2026-11-28T20:00:00+01:00",
+    "end": "2026-11-29T01:30:00+01:00",
     "venue": {
         "name": "Sentralen",
         "address": "Øvre Slottsgate 3, 0157 Oslo",
@@ -17,15 +17,15 @@
         "Geraldina Rojas",
         "Ezequiel Paludi"
     ],
-    "price_nok": null,
-    "student_price_nok": null,
+    "price_nok": 350,
+    "student_price_nok": 250,
     "class_price_nok": null,
     "description": "Galla Milonga under seminarhelgen.",
     "source": "Oslo Tango",
     "source_url": "https://www.oslotango.com/registration-cancelled/kurs-og-arrangementer/",
     "published_date": null,
     "first_seen": "2026-09-30",
-    "last_verified": "2026-09-30",
+    "last_verified": "2026-11-27",
     "crawl_timestamp": "2026-09-30T16:51:00+02:00",
     "confidence": 0.9,
     "music_style": [],
